@@ -1,0 +1,26 @@
+button{
+    color:black;
+    background-color: yellow;
+    font-size: 2rem;
+    border:solid 2px rgb(242, 192, 199) ;
+    margin-top: 15rem;
+  
+    border-radius: 1rem;
+
+}
+.dark{
+    background-color:black;
+    color: white;
+    font-style: italic;
+}
+.light{
+    background-color: whitesmoke;
+    color:black;
+}
+.container{
+    display: block;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+    
+}
